@@ -5,7 +5,7 @@ Create a simple HTML parser that can parse the tags and attributes of all the HT
 - `p`
 - `a`
 - `img`
-- `ul`, `ol`, `li`
+- `ul`, `ol`, `li` (in the next release)
 
 The parser should be able to handle the following attributes:
 - `href` for `a` tag
@@ -38,9 +38,9 @@ The parser should be able to create a valid MD file with the same name as the HT
 # Home
 ## Home Heading 2
 Home Paragraph
-[Home](home.md)
-[About](about.md)
-[Career](career.md)
+[Home](home.html)
+[About](about.html)
+[Career](career.html)
 ```
 
 ## Note
